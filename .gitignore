@@ -1,0 +1,5 @@
+bin/
+obj/
+packages/
+MvcDemoSite-AfterRefactoring/MvcDemoSite.sln.DotSettings.user
+*.suo
